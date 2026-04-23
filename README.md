@@ -1,5 +1,5 @@
 # SDT621-Week1-Project
-## Student Details
+## Details
 
 | Field | Details |
 |---|---|
